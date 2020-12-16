@@ -3,9 +3,8 @@ C# 与 JS  之间Gzip互通Demo
 
 #### 目录结构
 GzipSample
-├─ README.md
-├─ csharp  
-└─ js
+- csharp：源码工程
+- js：源码工程
 
 #### 包含具体内容
 - JS 压缩 Gzip demo
