@@ -51,6 +51,9 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Res\gz\csharp.gz" />
+    <None Include="Res\gz\csharp_base64.gz" />
+    <None Include="Res\gz\js.gz" />
+    <None Include="Res\gz\js_base64.gz" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

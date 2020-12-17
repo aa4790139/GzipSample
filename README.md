@@ -17,6 +17,9 @@ GzipSample
 - CSharp 解压 JS 的 base64 + gzip
 - Base64 encode 和 decode 
 
+### GZip 文件结构图
+![](https://cdn.jsdelivr.net/gh/aa4790139/BlogPicBed@master/img/20201217205124.jpg)
+
 #### 依赖库
 - SharpZipLib：[https://github.com/icsharpcode/SharpZipLib](https://github.com/icsharpcode/SharpZipLib)
 - gzip-js：[https://github.com/beatgammit/gzip-js](https://github.com/beatgammit/gzip-js) 
